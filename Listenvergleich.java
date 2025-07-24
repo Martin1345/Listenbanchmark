@@ -4,7 +4,7 @@ import java.util.LinkedList;// Importierung der Klasse zur Erschaffung von Linke
 
 public class Listenvergleich{
     public static void main(String[] args){
-        int Groesse = 1000000;// Größe der Linked und ArrayList
+        int Groesse = 1000000;// Größe der Linked- und ArrayList
         ArrayList<Integer> ArrayList = new ArrayList<>(Groesse);// Erschaffung einer ArrayList mit der angegebenen Größe
         LinkedList<Integer> LinkedList = new LinkedList<>();// Erschaffung einer LinkedList mit der angegebenen Größe
         int Iterationen = 10;// Anzahl der Iterationen für die Messung der Laufzeit
