@@ -1,4 +1,4 @@
-Dieses Repository ist Bestandteil einer Bachelorarbeit an der Hochschule Landshut.
+Dieses Repository ist Bestandteil einer Bachelorarbeit an der Hochschule Landshut
 
 Autor: Martin Schuldes
 
